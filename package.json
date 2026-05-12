@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "formidable": "^3.5.4",
+    "mongodb": "^7.2.0",
+    "nodemailer": "^8.0.7"
+  }
+}
